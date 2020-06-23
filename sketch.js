@@ -2,7 +2,7 @@ var database;
 var canvas;
 
 function setup() {
-    canvas = createCanvas(1200,00);
+    canvas = createCanvas(1800,800);
     database = firebase.database();
 }
 
